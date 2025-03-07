@@ -103,7 +103,3 @@ Follow these steps to set up the project on your local machine:
    - Run the `003_DataCleanAndLload.ipynb` notebook to clean the data and apply the necessary transformations (including the "HIRED" logic).
 
 
-## Final Thoughts
-
-I developed this project as a hands-on exercise to demonstrate my capabilities in data engineering and visualization. Through this process, I learned a great deal about data management and the importance of clear, reproducible workflows. I hope this project inspires others who are embarking on similar challenges.
-
